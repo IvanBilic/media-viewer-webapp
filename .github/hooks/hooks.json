@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "type": "command",
+        "command": "powershell.exe -ExecutionPolicy Bypass -Command \"$input | ForEach-Object { $_ | Add-Content -Path 'C:\\Users\\Ivanb\\Documents\\Git\\media-viewer-webapp\\lab-1\\agent_log.txt' -Encoding UTF8 }\""
+      }
+    ],
+    "preToolUse": [
+      {
+        "type": "command",
+        "command": "powershell.exe -ExecutionPolicy Bypass -Command \"$input | ForEach-Object { $entry = @{ timestamp = (Get-Date -Format 'yyyy-MM-ddTHH:mm:ssZ'); data = $_ } | ConvertTo-Json; $entry | Add-Content -Path 'C:\\Users\\Ivanb\\Documents\\Git\\media-viewer-webapp\\lab-1\\agent_log.txt' -Encoding UTF8 }\""
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\bin\Debug\net8.0\MediaViewerApp.exe
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\bin\Debug\net8.0\MediaViewerApp.deps.json
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\bin\Debug\net8.0\MediaViewerApp.runtimeconfig.json
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\bin\Debug\net8.0\MediaViewerApp.dll
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\bin\Debug\net8.0\MediaViewerApp.pdb
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.AssemblyInfoInputs.cache
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.AssemblyInfo.cs
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.csproj.CoreCompileInputs.cache
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.sourcelink.json
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.dll
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\refint\MediaViewerApp.dll
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.pdb
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\MediaViewerApp.genruntimeconfig.cache
+c:\Users\Ivanb\Documents\Git\media-viewer-webapp\lab-1\MediaViewerApp\obj\Debug\net8.0\ref\MediaViewerApp.dll
